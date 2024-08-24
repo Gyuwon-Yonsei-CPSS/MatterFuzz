@@ -35,7 +35,7 @@ To get started with **MatterFuzz**, follow these steps
 
 1. Clone this repository
 ```
-   git clone https://github.com/yourusername/MatterFuzz.git
+   git clone https://github.com/Gyuwon-Yonsei-CPSS/MatterFuzz.git
    cd MatterFuzz
 ```
 
